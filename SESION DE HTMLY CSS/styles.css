@@ -1,0 +1,19 @@
+
+.tiu1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(75, 75, 228);
+    text-shadow:  0 0 20px rgba(103, 101, 240, 0.747);
+}
+body{
+    background-color: blanchedalmond;
+}
+.tiu2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(45, 47, 175);
+    text-shadow:  0 0 20px rgba(4, 0, 255, 0.747);
+}
+.tiu3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(182, 100, 157);
+    text-shadow:  0 0 20px rgba(204, 0, 255, 0.747);
+}
